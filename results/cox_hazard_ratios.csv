@@ -1,0 +1,5 @@
+term,estimate,std.error,statistic,p.value,conf.low,conf.high
+zoneTemperate,2.282,0.436,1.894,0.058,0.972,5.36
+zoneHot-Arid,2.098,0.436,1.701,0.089,0.893,4.929
+zoneHot-Humid,6.804,0.454,4.228,0,2.797,16.552
+techmulti-Si,1.975,0.289,2.357,0.018,1.121,3.478

@@ -1,0 +1,9 @@
+zone,tech,est_pp_yr,lower,upper,true_pp_yr,ci_covers_truth,abs_error
+Temperate,mono-PERC,-0.524,-0.619,-0.429,-0.45,TRUE,0.074
+Cold,mono-PERC,-0.363,-0.458,-0.267,-0.35,TRUE,0.013
+Hot-Arid,mono-PERC,-0.595,-0.691,-0.5,-0.7,FALSE,0.105
+Hot-Humid,mono-PERC,-0.851,-0.946,-0.756,-0.85,TRUE,0.001
+Temperate,multi-Si,-0.697,-0.792,-0.602,-0.6,FALSE,0.097
+Cold,multi-Si,-0.536,-0.631,-0.44,-0.5,TRUE,0.036
+Hot-Arid,multi-Si,-0.768,-0.864,-0.673,-0.85,TRUE,0.082
+Hot-Humid,multi-Si,-1.024,-1.119,-0.929,-1,TRUE,0.024

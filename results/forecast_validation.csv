@@ -1,0 +1,3 @@
+model,rmse_pp
+Mixed-effects degradation model,0.661
+Seasonal baseline (no trend),1.93

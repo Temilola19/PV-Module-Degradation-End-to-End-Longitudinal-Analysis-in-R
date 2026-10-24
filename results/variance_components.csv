@@ -1,0 +1,5 @@
+grp,var1,var2,vcov,sdcor
+module_id,(Intercept),NA,0.829,0.9105
+module_id,time_yr,NA,0.027,0.1644
+module_id,(Intercept),time_yr,-0.0082,-0.0549
+Residual,NA,NA,0.3781,0.6149

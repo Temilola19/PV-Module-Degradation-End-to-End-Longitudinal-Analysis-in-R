@@ -1,0 +1,9 @@
+zone,tech,true_slope_pp_yr
+Hot-Humid,mono-PERC,-0.85
+Hot-Arid,mono-PERC,-0.7
+Temperate,mono-PERC,-0.45
+Cold,mono-PERC,-0.35
+Hot-Humid,multi-Si,-1
+Hot-Arid,multi-Si,-0.85
+Temperate,multi-Si,-0.6
+Cold,multi-Si,-0.5

@@ -1,0 +1,12 @@
+check,value
+rows_raw,3865
+duplicates_removed,25
+missing_pr,154
+out_of_physical_range,41
+outliers_flagged,49
+qc_precision,0.837
+qc_recall,1
+rows_curated,3840
+analysis_rows,3637
+pct_usable,94.7
+modules_below_80pct_coverage,0
